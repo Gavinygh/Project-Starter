@@ -1,0 +1,14 @@
+{
+    "unfinished tasks": [{
+        "diffLevel": 6,
+        "description": "CPSC210",
+        "deadline": "2020.10.16",
+        "status": "unfinished"
+    }],
+    "finished tasks": [{
+        "diffLevel": 5,
+        "description": "CPSC302",
+        "deadline": "2020.10.16",
+        "status": "finished"
+    }]
+}
